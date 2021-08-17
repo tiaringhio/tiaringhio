@@ -1,6 +1,7 @@
 # **Hi there!** 👋
 
 I'm **Mattia Ricci** - aka tiaringhio 👋 I'm a student at the **University of Parma** in **Computer Engineering** and a **Junior Developer** at TTGames Srl.
+[My Website](https://me.mattiaricci.it)
 
 [![tiaringhio's github stats](https://github-readme-stats.vercel.app/api?username=tiaringhio)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -8,36 +9,42 @@ I'm **Mattia Ricci** - aka tiaringhio 👋 I'm a student at the **University of 
 
 ## **Languages**
 
-- Javascript
-- Typescript
 - C#
+- Javascript/Typescript
 - Java
 - Python
-- HTML & CSS
+- HTML & CSS (gotta write that uh?)
 - SQL
+- JSON/YAML
 
 ## **Tools**
 
-- Jupyter
-- Pandas
-- Firebase
 - Azure DevOps
-- Microsoft Azure (general)
+- CI/CD Managment via Azure DevOps
+- Microsoft Azure (general knowledge)
+- Docker
+- Kubernetes
+- General understanding of Linux management
+
+## **Frameworks**
+
+- Angular
+- TailwindCSS
+- .NET Core (.NET 5/6)
 
 </br>
 
-# **What I'm actively using at work** ☀
+# **What I use on the daily** ☀
 
 - .NET Core
-- Entity Framework
 - Azure Functions
 - Angular
 - SQL Server
+- Docker/Kubernetes
 
 # **Photography** 📷
 
 I also have the passion for photography and i'm fluent in Adobe Photoshop, Adobe Lightroom and Capture One.
-I shoot for fun and
 
 </br></br>
 
