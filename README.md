@@ -1,9 +1,12 @@
 # **Hi there!** 👋
 
 I'm **Mattia Ricci** - aka tiaringhio 👋 I'm a student at the **University of Parma** in **Computer Engineering** and a **Junior Developer** at TTGames Srl.
-[My Website](https://me.mattiaricci.it)
 
 [![tiaringhio's github stats](https://github-readme-stats.vercel.app/api?username=tiaringhio)](https://github.com/anuraghazra/github-readme-stats)
+
+# My Personal Website
+
+My personal website written in Angular and TailwindCSS [Check it out](https://mattiaricci.i)
 
 # **Languages and Tools I'm familiar with**✔
 
@@ -30,7 +33,7 @@ I'm **Mattia Ricci** - aka tiaringhio 👋 I'm a student at the **University of 
 
 - Angular
 - TailwindCSS
-- .NET Core (.NET 5/6)
+- .NET Core 3.0+ also .NET 5/6
 
 </br>
 
@@ -39,6 +42,7 @@ I'm **Mattia Ricci** - aka tiaringhio 👋 I'm a student at the **University of 
 - .NET Core
 - Azure Functions
 - Angular
+- TailwindCSS
 - SQL Server
 - Docker/Kubernetes
 
