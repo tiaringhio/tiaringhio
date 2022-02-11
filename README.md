@@ -17,8 +17,7 @@ My personal website written in Angular and TailwindCSS [Check it out](https://ma
 - Java
 - Python
 - HTML & CSS (gotta write that uh?)
-- SQL
-- JSON/YAML
+- SQL (MySql & SQL Server)
 
 ## **Tools**
 
@@ -27,19 +26,21 @@ My personal website written in Angular and TailwindCSS [Check it out](https://ma
 - Microsoft Azure (general knowledge)
 - Docker
 - Kubernetes
+- Azure Functions
+- PlanetScale
 - General understanding of Linux management
 
 ## **Frameworks**
 
 - Angular
 - TailwindCSS
-- .NET Core 3.0+ also .NET 5/6
+- .NET Core 3.0+, .NET 5/6
 
 </br>
 
 # **What I use on the daily** ☀
 
-- .NET Core
+- .NET
 - Azure Functions
 - Angular
 - TailwindCSS
