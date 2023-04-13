@@ -1,6 +1,6 @@
 # **Hi there!** 👋
 
-I'm **Mattia Ricci** - aka tiaringhio 👋 I'm a student at the **University of Parma** in **Computer Engineering** and a **Junior Developer** at TTGames Srl.
+I'm **Mattia Ricci** - aka tiaringhio 👋 I'm a student at the **University of Parma** in **Computer Engineering** and a **Backend Developer** at Agic Cloud Srl.
 
 [![tiaringhio's github stats](https://github-readme-stats.vercel.app/api?username=tiaringhio)](https://github.com/anuraghazra/github-readme-stats)
 
